@@ -5,7 +5,6 @@ import GlobalNav from "./components/GlobalNav";
 import Strip from "./containers/Strip";
 import Nav from "./components/Nav";
 import GhostStrip from "./containers/GhostStrip";
-import Footer from "./components/Footer";
 import { stripExamples } from "./data";
 
 const moveItem = (origArr, fromIndex, toIndex) => {
@@ -162,7 +161,6 @@ class App extends Component {
           <Nav />
           <div ref={this.container}>{this.generateStrips()}</div>
           {editing && <GhostStrip addStrip={this.addStrip} />}
-          <Footer />
         </div>
         {markup && (
           <div className="row">

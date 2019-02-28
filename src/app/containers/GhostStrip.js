@@ -17,7 +17,10 @@ class GhostStrip extends Component {
 
   render = () => {
     return (
-      <section className="strip-container">
+      <section
+        className="strip-container"
+        style={{ borderBottom: "1px solid #cdcdcd" }}
+      >
         <div className="p-strip is-shallow" />
         <div className="strip-controls">
           <select value="" onChange={e => this.handleSelect(e)}>

@@ -6,7 +6,7 @@ import StripTypeSelect from "../components/StripTypeSelect";
 
 class Strip extends Component {
   state = {
-    border: false
+    border: true
   };
 
   selectStrip = e => {
