@@ -6,14 +6,16 @@ export default (
     <div className="row">
       <div className="p-divider">
         <div className="col-4 p-divider__block">
-          <h3 className="p-heading--four">Growing your cloud?</h3>
+          <h3 className="p-heading--four">
+            &lt;Oneward clicks at the end of the page&gt;?
+          </h3>
           <p>
             Ubuntu Advantage enterprise support agreements include Canonical
             OpenStack at no extra charge.
           </p>
           <p>
             <a className="p-button--positive" href="https://buy.ubuntu.com/">
-              Buy now
+              Call to Action
             </a>
             or{" "}
             <a className="js-invoke-modal" href="/support/contact-us">
@@ -24,7 +26,7 @@ export default (
         </div>
 
         <div className="col-4 p-divider__block">
-          <h3 className="p-heading--four">Talk to us</h3>
+          <h3 className="p-heading--four">&lt;Reason to talk today&gt;</h3>
           <p>
             Let our cloud experts help you get started in the right direction
             with OpenStack, with consulting, training or outsourced operations.

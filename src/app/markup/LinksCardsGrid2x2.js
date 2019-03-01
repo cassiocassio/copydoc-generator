@@ -4,13 +4,13 @@ export default (
   <div>
     <div className="row">
       <div className="col-8">
-        <h2>Look who’s leading</h2>
+        <h2>&lt;Big theme summary headline&gt;</h2>
       </div>
     </div>
     <div className="row">
       <div className="u-equal-height">
         <div className="col-6 p-card">
-          <h3 className="p-card__title">The making of the Nextcloud box</h3>
+          <h3 className="p-card__title">&lt;First theme&gt;</h3>
           <p className="p-card__content">
             In this webinar, Nextcloud founder, Frank Karlitschek, describes the
             creation of the Nextcloud box, a secure self-hosted cloud that lets
@@ -26,7 +26,7 @@ export default (
           </p>
         </div>
         <div className="col-6 p-card">
-          <h3 className="p-card__title">Tunnel drones, going where man cannot</h3>
+          <h3 className="p-card__title">&lt;Second example&gt;</h3>
           <p className="p-card__content">
             AeroLion Technologies’s UAVs are undertaking tasks autonomously and
             helping to inspect areas that were previously unreachable, either
@@ -47,9 +47,7 @@ export default (
     <div className="row">
       <div className="u-equal-height">
         <div className="col-6 p-card">
-          <h3 className="p-card__title">
-            Azeti raises the bar for field operations
-          </h3>
+          <h3 className="p-card__title">&lt;Third point to make&gt;</h3>
           <p className="p-card__content">
             Azeti Networks is a global provider of IoT technology to companies
             from telecommunications to manufacturing, finance and healthcare.
@@ -65,7 +63,7 @@ export default (
           </p>
         </div>
         <div className="col-6 p-card">
-          <h3 className="p-card__title">Dell — defining industrial intelligence</h3>
+          <h3 className="p-card__title">&lt;Finish strong fourth point&gt;</h3>
           <p className="p-card__content">
             The Dell Edge Gateway range bring familiar X86 robust connectivity
             to the industrial market, making it easy to create and manage

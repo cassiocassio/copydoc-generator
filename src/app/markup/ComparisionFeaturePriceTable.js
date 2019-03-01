@@ -5,7 +5,7 @@ export default (
     <div className="row">
       <div className="col-6">
         <h2>
-          Enterprise support
+          Headline about support options
           <br className="u-hide--small" />
           for MAAS
         </h2>

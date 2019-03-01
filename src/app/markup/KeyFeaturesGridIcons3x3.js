@@ -4,7 +4,7 @@ import React from "react";
 export default (
   <div>
     <div className="row">
-      <h2>Key features</h2>
+      <h2> &lt;Key features of the product with theme icons</h2>
     </div>
     <div className="row">
       <ul className="p-matrix">

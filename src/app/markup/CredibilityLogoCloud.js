@@ -4,7 +4,7 @@ export default (
   <div className="row">
     <div className="col-12">
       <h2 className="p-muted-heading u-align-text--center">
-        On public clouds and on premises
+        &lt;Explain the role of these partners or customers&gt;
       </h2>
       <ul className="p-inline-images">
         <li className="p-inline-images__item">

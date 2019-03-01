@@ -5,9 +5,9 @@ export default (
     <div className="row u-equal-height u-vertically-center">
       <div className="col-7">
         <h1>
-          Multi-cloud Kubernetes
+          &lt;Headline in six words
           <br />
-          on Ubuntu
+          broken nicely&gt;
         </h1>
         <p>
           Ubuntu is the reference platform for Kubernetes on all major public

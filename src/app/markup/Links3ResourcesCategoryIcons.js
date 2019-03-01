@@ -3,7 +3,7 @@ import React from "react";
 export default (
   <div>
     <div className="row">
-      <h3>Learn more about OpenStack</h3>
+      <h3>Learn more about &lt;Productname&gt;</h3>
       <div className="row p-divider">
         <div className="col-4 p-divider__block">
           <div className="p-heading-icon--muted">

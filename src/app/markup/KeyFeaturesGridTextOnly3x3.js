@@ -3,7 +3,7 @@ import React from "react";
 export default (
   <div>
     <div className="row">
-      <h2>Reliable, fast, small, upstream. Tasty!</h2>
+      <h2> &lt;Four, sharp, compelling adjectives!</h2>
     </div>
     <div className="row">
       <ul className="p-matrix u-clearfix">

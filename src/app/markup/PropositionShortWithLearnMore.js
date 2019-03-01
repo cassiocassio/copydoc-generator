@@ -5,9 +5,9 @@ export default (
     <div className="row">
       <div className="col-6">
         <h2>
-          Real servers,
+          &lt;Headline in
           <br />
-          self-service
+          four words&gt;
         </h2>
       </div>
       <div className="col-6">

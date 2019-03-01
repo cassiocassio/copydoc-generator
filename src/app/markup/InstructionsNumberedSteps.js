@@ -9,7 +9,7 @@ export default (
           <li className="p-list-step__item ">
             <h3 className="p-list-step__title">
               <span className="p-list-step__bullet">1</span>
-              Setup your hardware
+              &lt;Outcome of following these instructions&gt;
             </h3>
             <p className="p-list-step__content">
               You need one small server for MAAS and at least one server which

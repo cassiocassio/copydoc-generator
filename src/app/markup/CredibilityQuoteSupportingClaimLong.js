@@ -3,11 +3,11 @@ import React from "react";
 export default (
   <div>
     <div className="row">
-      <h2>Single node Kubernetes done right</h2>
+      <h2> &lt;Major statement about product&gt;</h2>
     </div>
     <div className="row">
       <div className="col-6">
-        <h4>Zero-ops k8s on just about any Linux box.</h4>
+        <h4> &lt;Second sentence to detail this claim&gt;.</h4>
         <p>
           It’s not elastic, but it is on rails. Use it for offline development,
           prototyping, testing, or use it on a VM as a small, cheap, reliable
@@ -23,8 +23,8 @@ export default (
       <div className="col-6">
         <blockquote className="p-pull-quote">
           <p>
-            dear microk8s team: you are awesome. Microk8s has tangibly improved
-            my life and my CI pipelines as a developer of k8s controllers
+            &lt;Quote from a credible source that backs up our claim in a
+            concrete and emotional manner. Two sentences will be enough&gt;
           </p>
           <cite className="p-pull-quote__citation">
             Posted in&nbsp;

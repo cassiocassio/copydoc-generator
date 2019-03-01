@@ -5,9 +5,9 @@ export default (
     <div className="row">
       <div className="col-6">
         <h1>
-          Very fast
+          &lt;Strong headline
           <br className="u-hide--small u-hide--medium" />
-          server provisioning
+          few words, gets read&gt;
         </h1>
         <p>
           Self-service, remote installation of Windows, CentOS and Ubuntu on

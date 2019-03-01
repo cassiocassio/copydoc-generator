@@ -3,7 +3,7 @@ import React from "react";
 export default (
   <div className="row">
     <div className="col-4">
-      <h3 className="p-footer__title p-heading--four">MAAS</h3>
+      <h3 className="p-footer__title p-heading--four">&lt;Productname&gt;</h3>
       <ul className="p-footer__list p-list">
         <li className="p-list__item">
           <a className="p-link--strong" href="/">
@@ -12,7 +12,7 @@ export default (
         </li>
         <li className="p-list__item">
           <a className="p-link--strong" href="/install">
-            Install MAAS
+            Install Product
           </a>
         </li>
         <li className="p-list__item">
@@ -52,7 +52,7 @@ export default (
             className="p-link--external p-link--strong"
             href="http://webchat.freenode.net/?channels=maas"
           >
-            Chat with MAAS on freenode
+            Chat with ProductTeam on freenode
           </a>
         </li>
         <li className="p-list__item">

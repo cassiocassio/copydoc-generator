@@ -3,7 +3,10 @@ import React from "react";
 export default (
   <div>
     <div className="row">
-      <h2>Tackle your provisioning problems with MAAS</h2>
+      <h2>
+        &lt;Describe the single most compelling outcome the product provides for
+        the user&gt;
+      </h2>
     </div>
     <div className="row">
       <div className="hr" />

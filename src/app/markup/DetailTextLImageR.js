@@ -4,7 +4,9 @@ export default (
   <div>
     <div className="row">
       <div className="col-6">
-        <h3 className="p-heading--two">Measure user growth</h3>
+        <h3 className="p-heading--two">
+          &lt;Major statement about product&gt;
+        </h3>
         <p>
           Make data-driven decisions with active install metrics. Watch as
           automatic updates migrate users to your latest release. Understand

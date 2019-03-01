@@ -4,12 +4,12 @@ export default (
   <div>
     <div className="row">
       <div className="col-6">
-        <h2>Storage</h2>
+        <h2>&lt;Benefit of choosing the thing&gt;</h2>
       </div>
     </div>
     <div className="row">
       <div className="col-6">
-        <h4>Inventory, testing and benchmarking</h4>
+        <h4>&lt;Feature of the thing&gt;</h4>
         <p>
           MAAS detects and inventories all the disks, in every server. You’ll
           have a single database of every model and serial number.
@@ -20,7 +20,7 @@ export default (
         </p>
       </div>
       <div className="col-6">
-        <h4>RAID, LVM, Bcache, ZFS and more</h4>
+        <h4>&lt;Second featur of the thing&gt;</h4>
         <p>
           Auto-tagging of SSD and rotary disk types makes it easy to know which
           disks to use for each application.

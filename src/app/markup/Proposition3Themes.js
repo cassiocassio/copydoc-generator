@@ -9,7 +9,7 @@ export default (
           width="307"
           alt=""
         />
-        <h3>Digital signage</h3>
+        <h3>&lt;Example customer success&gt;</h3>
         <p>
           A small footprint and full OpenGL with reliable updates across a
           diverse range of hardware make Ubuntu Core a perfect platform for
@@ -27,7 +27,7 @@ export default (
           width="307"
           alt=""
         />
-        <h3>Robotics</h3>
+        <h3>&lt;Second thing&gt;</h3>
         <p>
           With ROS and snapcraft, it’s easy to enable apps on robots and drones,
           creating new ecosystems and business models.
@@ -44,7 +44,7 @@ export default (
           width="307"
           alt=""
         />
-        <h3>Gateways</h3>
+        <h3>&lt;Third, lastly&gt;</h3>
         <p>
           Rich networking and protocol support make Ubuntu Core the perfect
           choice for your industrial gateways. Create the next wave of

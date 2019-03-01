@@ -3,7 +3,10 @@ import React from "react";
 export default (
   <div>
     <div className="row">
-      <h2 className="p-muted-heading">Features</h2>
+      <h2 className="p-muted-heading">
+        {" "}
+        &lt;Describe single benefit from features underneath&gt;
+      </h2>
     </div>
     <div className="row u-equal-height">
       <div className="col-3">

@@ -5,8 +5,8 @@ export default (
   <div>
     <div className="row">
       <div className="col-8 u-sv3">
-        <h2>Useful tips</h2>
-        <h4>Start and stop kubernetes</h4>
+        <h2>&lt;Outcome of following these instructions&gt;</h2>
+        <h4>&lt;Set the context for this series of instructions&gt;</h4>
         <p>
           Bring k8s up and take it down as needed to preserve battery life when
           you don’t need it running:
